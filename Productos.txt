@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"title": "Cacao",
+		"description": "Chocalet",
+		"price": "5161",
+		"thumbnail": "asd",
+		"code": "5961",
+		"stock": "5"
+	},
+	{
+		"id": 2,
+		"title": "celu",
+		"description": "tec",
+		"price": "11",
+		"thumbnail": "asd",
+		"code": "673",
+		"stock": "1"
+	}
+]
