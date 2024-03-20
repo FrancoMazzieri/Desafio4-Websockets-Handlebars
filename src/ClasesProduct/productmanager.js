@@ -105,6 +105,7 @@ class ProductManager {
     }
 */
     async addProducts(title, description, price, thumbnail, code, stock) {
+        this.products = this.getProduct()
         const product = {
             title,
             description,
